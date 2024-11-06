@@ -40,7 +40,7 @@
             "metadata": {
                 "description": "Specifies the URI of the deployment template artifacts on GitHub"
             },
-            "defaultValue": "https://raw.githubusercontent.com/daviditkin/Azure-Sentinel/feature-bhe-solution/Solutions/BloodHound%20Enterprise/Data%20Connectors/deployment/"
+            "defaultValue": "https://raw.githubusercontent.com/daviditkin/Azure-Sentinel/demo-bhe-solution/Solutions/BloodHound%20Enterprise/Data%20Connectors/deployment/"
         }
     },
     "resources": [
